@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: safe-pfl-utils
+Version: 0.1.1
+Summary: safe-pfl utils
+Home-page: https://github.com/safe-pfl/utils
+Author: MohammadMojtaba Roshani
+Author-email: mohammadmojtabaroshani@outlook.com
+License: Apache Software License
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Programming Language :: Python :: 3.11
+Classifier: Programming Language :: Python :: 3.12
+Classifier: Programming Language :: Python :: 3.13
+Classifier: Programming Language :: Python :: 3.14
+License-File: LICENSE

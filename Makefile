@@ -26,7 +26,7 @@ source-distribution: clean
 
 sign:
 	@echo "signing with gpg"
-	@gpg --detach-sign -a dist/safe_pfl_plotter-*
+	@gpg --detach-sign -a dist/safe_pfl_utils-*
 
 publish-test: increment-version source-distribution sign
 	@echo "test publishing"

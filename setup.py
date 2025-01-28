@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="safe-pfl-utils",
-    version="0.1.0-rc.1",
+    version="0.1.1",
     description="safe-pfl utils",
     url="https://github.com/safe-pfl/utils",
     author="MohammadMojtaba Roshani",
